@@ -6,6 +6,7 @@ Chronic diseases require continuous monitoring, but existing systems rely on per
 
 # Technologies Used
 Platform: IBM watsonx.ai, IBM Cloud Object Storage
+
 Tools: IBM Watson Studio, Cloud Functions
 
 # Result
